@@ -1,0 +1,6 @@
+port: 9999
+packet_format: fh4
+parameter_list:
+  - wall_clock
+  - timestamp_ms
+  - current_engine_rpm
